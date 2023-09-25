@@ -1,8 +1,8 @@
-<iframe src="https://giphy.com/embed/R03zWv5p1oNSQd91EP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/R03zWv5p1oNSQd91EP">via GIPHY</a></p>
+
 <h1 align="center">Hi 👋, I'm Patrick Tricenio</h1>
 <h3 align="center">passionate and seeking a role in Software Development</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patsy101" alt="patsy101" /></a> </p>
+
 
 - 🌱 I’m currently learning **Python**
 
