@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Patrick Tricenio</h1>
-<h3 align="center">passionate and seeking a role in Software Development</h3>
+
 
 
 
