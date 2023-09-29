@@ -36,5 +36,5 @@ Connect with Me:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patsy101&show_icons=true&locale=en&layout=compact" alt="patsy101" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patsy101&show_icons=true&locale=en" alt="patsy101" /></p>
-<p><img align="left" src="https://github-contributor-stats.vercel.app/api?username=Patsy101&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="patsy101" /></p>
+<p><img align="left" src="https://github-contributor-stats.vercel.app/api?username=Patsy101&limit=5&theme=light&combine_all_yearly_contributions=true" alt="patsy101" /></p>
 
