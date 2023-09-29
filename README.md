@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Patrick Tricenio</h1>
+<h1 align="center">Kia Ora 👋, I'm Patrick </h1>
 
 <p></p>
 
@@ -20,7 +20,9 @@ Connect with Me:
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/patrick-tricenio-a3ba14140/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div> 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="patrick-tricenio" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://nz.linkedin.com/in/patrick-tricenio?trk=profile-badge">Patrick Tricenio</a></div>
+              
 
 <p align="left">
 </p>
@@ -39,4 +41,5 @@ Connect with Me:
 
 <br></br>
 <p><img align="left" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/79166260" alt="patsy101" /></p>
+
 
