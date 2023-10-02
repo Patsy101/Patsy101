@@ -25,7 +25,7 @@ Connect with Me:
 </p>
 <p align="left">Reliable, industrious, and polite person, who has a can-do attitude at all times, along with a positive work ethic. I am a hardworking and self-motivated person as I show initiative all the time. My greatest joy comes from crafting solutions and observing their tangible effects on people. I am resolute in my commitment to generating high-quality work that truly matters.</p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 
 # 💻 Tech Stack:
 
