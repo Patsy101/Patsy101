@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Patsy101](https://github.com/Patsy101)
+
 - 👨‍💻 Personal Webpage: https://patrick-t-portfolio.vercel.app/
 
 - 📫 How to reach me **patricktricenio549@gmail.com**
@@ -20,6 +21,7 @@ Connect with Me:
 </a>  
 </div>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="patrick-tricenio" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://nz.linkedin.com/in/patrick-tricenio?trk=profile-badge">Patrick Tricenio</a></div>
+
 
 <p align="left">
 </p>
