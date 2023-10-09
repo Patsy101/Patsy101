@@ -6,8 +6,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Patsy101](https://github.com/Patsy101)
 
-- 👨‍💻 Personal Webpage: https://patrick-t-portfolio.vercel.app/
-
 - 📫 How to reach me **patricktricenio549@gmail.com**
 
 Connect with Me:
