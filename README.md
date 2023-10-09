@@ -42,3 +42,5 @@ Connect with Me:
 
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Patsy101&theme=default" alt="patsy101" /></p>
 <p><img align="left" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/79166260" alt="patsy101" /></p>
+
+![image](https://github.com/Patsy101/Patsy101/assets/100541934/9d4bceb9-38c0-4371-898c-9c3fd5e5e3f1)
