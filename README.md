@@ -40,7 +40,7 @@ Connect with Me:
 
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Patsy101&theme=default" alt="patsy101" /></p>
 <p><img align="left" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/79166260" alt="patsy101" /></p>
-
+<img width="563" alt="image" src="https://github.com/Patsy101/Patsy101/assets/100541934/02dbac74-9d74-4b75-8d86-99150179be65">
 ![image](https://github.com/Patsy101/Patsy101/assets/100541934/9d4bceb9-38c0-4371-898c-9c3fd5e5e3f1)
-<img width="563" alt="image" src="https://github.com/Patsy101/Patsy101/assets/100541934/0ffe58d2-14e6-4bb6-a297-dcd0dc6ebf1f">
+
 
