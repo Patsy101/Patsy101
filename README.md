@@ -2,7 +2,7 @@
 
 <p></p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Patsy101](https://github.com/Patsy101)
 
