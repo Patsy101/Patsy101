@@ -13,9 +13,9 @@
   
 - [Manna Kitchen Ormiston NZ](https://manakitchenprototype.vercel.app/) 
   
-- [metronz.netlify.app](https://metronz.netlify.app/)
+- [Metro NZ Property Management](https://metronz.netlify.app/)
 
-- [levelupnz.netlify.app]](https://levelupnz.netlify.app/) 
+- [LevelUpWorks NZ Learning Management System](https://levelupnz.netlify.app/) 
 
 
 Connect with Me:
