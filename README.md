@@ -9,9 +9,9 @@
 - 📫 How to reach me **patricktricenio549@gmail.com**
 
   ### ⚙️ &nbsp; Projects
-- [![Magic Touch International Hair and Salon NZ](https://img.shields.io/badge/metronz.netlify.app-%E2%86%97-brightgreen?style=for-the-badge)](https://magic-touch-international-prototype.vercel.app/) 
+- [![Magic Touch International Hair and Salon NZ]](https://magic-touch-international-prototype.vercel.app/) 
   
-- [![Manna Kitchen Ormiston NZ](https://img.shields.io/badge/metronz.netlify.app-%E2%86%97-brightgreen?style=for-the-badge)](https://manakitchenprototype.vercel.app/) 
+- [![Manna Kitchen Ormiston NZ]](https://manakitchenprototype.vercel.app/) 
   
 - [![metronz.netlify.app](https://img.shields.io/badge/metronz.netlify.app-%E2%86%97-brightgreen?style=for-the-badge)](https://metronz.netlify.app/)
 
