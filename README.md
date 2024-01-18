@@ -49,9 +49,9 @@ Connect with Me:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patsy101&show_icons=true&locale=en&layout=compact" alt="patsy101" /></p>
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Patsy101&theme=default" alt="patsy101" /></p>
 <br></br>
-<p><img align="left" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/92431429" alt="patsy101" /></p>
-<img width="563" alt="image" src="https://github.com/Patsy101/Patsy101/assets/100541934/8ca0804b-ee8e-4c94-af75-fef4706bae54">
-<p><img align="left" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/79166260" alt="patsy101" /></p>
+<p><img align="left" width="563" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/92431429" alt="patsy101" /></p>
+<img width="563" alt="image" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/85203031">
+<p><img align="left" width="563" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/79166260" alt="patsy101" /></p>
 
 
 
