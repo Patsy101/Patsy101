@@ -17,7 +17,7 @@
 
 - [LevelUpWorks NZ Learning Management System](https://levelupnz.netlify.app/)
   
-- [Personal Webpage](patrick-t-portfolio.vercel.app) 
+- [Personal Webpage](https://patrick-t-portfolio.vercel.app/) 
 
 
 Connect with Me:
