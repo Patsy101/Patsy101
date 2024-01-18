@@ -9,7 +9,7 @@
 - 📫 How to reach me **patricktricenio549@gmail.com**
 
   ### ⚙️ &nbsp; Projects
-- [Magic Touch International Hair and Salon NZ](https://magic-touch-international-prototype.vercel.app/) 
+- [Magic Touch International Hair and Salon NZ](http://www.magictouchhairandsalon.co.nz/) 
   
 - [Manna Kitchen Ormiston NZ](https://manakitchenprototype.vercel.app/) 
   
