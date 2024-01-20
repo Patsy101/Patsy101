@@ -11,13 +11,17 @@
   ### ⚙️ &nbsp; Projects
 - [Magic Touch International Hair and Salon NZ](http://www.magictouchhairandsalon.co.nz/) 
   
-- [Manna Kitchen Ormiston NZ](https://manakitchenprototype.vercel.app/) 
+- [Manna Kitchen Ormiston NZ with LiveChat Human Support](https://manakitchenprototype.vercel.app/)
   
 - [Metro NZ Property Management](https://metronz.netlify.app/)
 
 - [LevelUpWorks NZ Learning Management System](https://levelupnz.netlify.app/)
+
+- [Authentication using Kinde](https://authenticator-app-theta.vercel.app/)
   
-- [Personal Webpage](https://patrick-t-portfolio.vercel.app/) 
+- [Personal Webpage](https://patrick-t-portfolio.vercel.app/)
+
+  
 
 
 Connect with Me:
