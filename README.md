@@ -32,12 +32,12 @@ I'm passionate about making technology more accessible to everyone, which is why
     
 
 - **Learning Management System**: [Moodle LMS](https://moodle.org/)
-  - Location:Australia
+  - Location: Australia
   - Description: Contributed to core 2.0 subsystems missing and outdated strings, 4.0 version Moodle .
   - Contributions: translating english to filipino.
  
 - **ReactJS Framework**: [React Javascript Framework](https://react.dev/)
-  - Location:Global
+  - Location: Global
   - Description: react.dev Translation [React Community](https://github.com/reactjs/translations.react.dev).
   - Contributions: added fl in langs.json in progress for PR review.
  
