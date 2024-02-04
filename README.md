@@ -9,9 +9,9 @@
 - 📫 How to reach me **patricktricenio549@gmail.com**
 
   ### ⚙️ &nbsp; Live Projects
-- [Magic Touch International Hair and Salon NZ](http://www.magictouchhairandsalon.co.nz/) 
+- [Magic Touch International Hair and Salon NZ](http://www.magictouchhairandsalon.co.nz/)  [New Zealand Business Number: 9429031277082]
   
-- [Manna Kitchen Ormiston NZ with LiveChat Human Support](https://manakitchenprototype.vercel.app/)
+- [Manna Kitchen Ormiston NZ with LiveChat Human Support](https://manakitchenprototype.vercel.app/) [New Zealand Business Number: 9429050508952]
   
 - [Metro NZ Property Management](https://metronz.netlify.app/)
 
