@@ -21,7 +21,7 @@
   
 - [Personal Webpage](https://patrick-t-portfolio.vercel.app/)
 
-  🌍 Open Source Contributions
+🌍 Open Source Contributions
 
 I'm passionate about making technology more accessible to everyone, which is why I contribute to open-source software translations. Here are some of the projects I've contributed to:
 
