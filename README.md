@@ -25,11 +25,11 @@
 
 I'm passionate about making technology more accessible to everyone, which is why I contribute to open-source software translations. Here are some of the projects I've contributed to:
 
-- **Multi-Factor Authentication**: [Link to Project](https://kinde.com/)
+- **Multi-Factor Authentication**: [Kinde Authentication](https://kinde.com/)
   - Description: Contributed to Kinde public facing screen eg authentication flows.
   - Contributions: translating english to filipino.
 
-- **Learning Management System**: [Link to Project](https://moodle.org/)
+- **Learning Management System**: [Moodle LMS](https://moodle.org/)
   - Description: Contributed to core 2.0 subsystems missing and outdated strings, 4.0 version Moodle .
   - Contributions: translating english to filipino.
 
