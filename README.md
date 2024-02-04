@@ -21,7 +21,26 @@
   
 - [Personal Webpage](https://patrick-t-portfolio.vercel.app/)
 
-  
+  🌍 Open Source Contributions
+
+I'm passionate about making technology more accessible to everyone, which is why I contribute to open-source software translations. Here are some of the projects I've contributed to:
+
+- **Multi-Factor Authentication**: [Link to Project](https://kinde.com/)
+  - Description: Contributed to Kinde public facing screen eg authentication flows.
+  - Contributions: translating english to filipino.
+
+- **Learning Management System**: [Link to Project](https://moodle.org/)
+  - Description: Contributed to core 2.0 subsystems missing and outdated strings, 4.0 version Moodle .
+  - Contributions: translating english to filipino.
+
+
+
+
+
+
+
+
+
 
 
 Connect with Me:
@@ -38,7 +57,7 @@ Connect with Me:
 
 <p align="left">
 </p>
-<p align="left">Reliable, industrious, and polite person, who has a can-do attitude at all times, along with a positive work ethic. I am a hardworking and self-motivated person as I show initiative all the time. My greatest joy comes from crafting solutions and observing their tangible effects on people. I am resolute in my commitment to generating high-quality work that truly matters.</p>
+
 
 <h3 align="left">Languages and Tools</h3>
 
