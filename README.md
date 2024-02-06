@@ -11,9 +11,9 @@
 - 📫 I'm currently based in New Zealand.
 
   ### ⚙️ &nbsp; Live Projects
-- [Magic Touch International Hair and Salon NZ](http://www.magictouchhairandsalon.co.nz/)  [New Zealand Business Number: 9429031277082]
+- [Magic Touch International Hair and Salon NZ](http://www.magictouchhairandsalon.co.nz/)  
   
-- [Manna Kitchen Ormiston NZ with LiveChat Human Support](https://manakitchenprototype.vercel.app/) [New Zealand Business Number: 9429050508952]
+- [Manna Kitchen Ormiston NZ with LiveChat Human Support](https://manakitchenprototype.vercel.app/) 
   
 - [Metro NZ Property Management](https://metronz.netlify.app/)
 
