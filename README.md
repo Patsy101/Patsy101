@@ -27,7 +27,7 @@
 
 I'm passionate about making technology more accessible to everyone, which is why I contribute to open-source software translations. Here are some of the projects I've contributed to:
 
-- **Multi-Factor Authentication**: [Kinde Authentication](https://github.com/kinde-oss)
+- **Multi-Factor Authentication**: [Kinde Authentication](https://kinde.com/)
   - Location: Australia
   - Description: Contributed to Kinde public facing screen eg authentication flows.
   - Contributions: translating english to filipino.
