@@ -7,6 +7,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Patsy101](https://github.com/Patsy101)
 
 - 📫 How to reach me **patricktricenio549@gmail.com**
+  
+- 📫 I'm currently based in New Zealand.
 
   ### ⚙️ &nbsp; Live Projects
 - [Magic Touch International Hair and Salon NZ](http://www.magictouchhairandsalon.co.nz/)  [New Zealand Business Number: 9429031277082]
