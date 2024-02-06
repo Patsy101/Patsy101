@@ -30,7 +30,7 @@ I'm passionate about making technology more accessible to everyone, which is why
 - **Multi-Factor Authentication**: [Kinde Authentication](https://kinde.com/)
   - Location: Australia
   - Description: Contributed to Kinde public facing screen eg authentication flows.
-  - Contributions: translating english to filipino.
+  - Contributions: translating english to filipino and improved README file.
     
 
 - **Learning Management System**: [Moodle LMS](https://moodle.org/)
