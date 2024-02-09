@@ -85,24 +85,6 @@ Connect with Me:
 
 
 
-# 🌱 My Previous Work Experience:
-![image](https://github.com/Patsy101/Patsy101/assets/100541934/c8e014d1-144d-4b12-bea4-f93c74ebb7e3)
-![image](https://github.com/Patsy101/Patsy101/assets/100541934/e3486760-e41b-4b6a-b88b-fd33994d8f74)
-![image](https://github.com/Patsy101/Patsy101/assets/100541934/358e5fb1-67b0-4202-9fbe-00959c955804)
-![image](https://github.com/Patsy101/Patsy101/assets/100541934/350fc8ea-2945-4160-b918-65f687400752)
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 📊 GitHub Stats:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
