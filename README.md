@@ -3,7 +3,10 @@
 <p></p>
 -🔬 I recently Interned at National Institute for Health Innovation [University of Auckland](https://www.nihi.org.nz/)
 
-  During my 10-week internship at the National Institute for Health Innovation, part of the University of Auckland, I had the opportunity to utilize AWS for Optical Character Recognition (OCR) and webscraping using Python with Selenium. This experience allowed me to enhance my skills in data extraction and machine learning automation, contributing to real-world    projects while learning from industry experts.
+  During my 10-week internship at the National Institute for Health Innovation, part of the University of Auckland, I had the opportunity to utilize AWS for Optical Character Recognition (OCR) and webscraping using Python with Selenium. This experience allowed me to enhance my skills in data extraction and machine learning automation, contributing to real-world projects [Nutritrack Database Machine Learning OCR](https://diet.auckland.ac.nz/sites/default/files/2021-10/Nutritrack_print_v3_Sept%2021.pdf) and [Jesters Pie NZ](https://jesters-pies.co.nz/) .
+
+  ![image](https://github.com/Patsy101/Patsy101/assets/100541934/4fb93386-9951-4d83-9c22-796bd79fb000)
+
 
 - 🌱 I’m currently learning **Python** 
 
