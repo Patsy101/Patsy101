@@ -40,7 +40,7 @@ I'm passionate about making technology more accessible to everyone, which is why
  
 - **ReactJS Framework**: [React Javascript Framework](https://react.dev/)
   - Description: react.dev Translation [React Community](https://github.com/reactjs/translations.react.dev).
-  - Contributions: added fl in langs.json in progress for PR review.
+  - Contributions: Suggested to be a maintainer for Filipino language.
  
 
 Connect with Me:
