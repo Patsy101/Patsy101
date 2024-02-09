@@ -1,6 +1,9 @@
 <h1 align="center">Kia Ora 👋, I'm Patrick </h1>
 
 <p></p>
+-🔬 I recently Interned at National Institute for Health Innovation [University of Auckland](https://www.nihi.org.nz/)
+
+  During my 10-week internship at the National Institute for Health Innovation, part of the University of Auckland, I had the opportunity to utilize AWS for Optical Character Recognition (OCR) and webscraping using Python with Selenium. This experience allowed me to enhance my skills in data extraction and machine learning automation, contributing to real-world    projects while learning from industry experts.
 
 - 🌱 I’m currently learning **Python** 
 
