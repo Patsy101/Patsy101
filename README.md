@@ -31,12 +31,12 @@ I'm passionate about making technology more accessible to everyone, which is why
 
 - **Multi-Factor Authentication**: [Kinde Authentication](https://kinde.com/)
   - Description: Contributed to Kinde public facing screen eg authentication flows.
-  - Contributions: translating english to filipino and improved README file.
+  - Contributions: translated english to filipino and improved README file.
     
 
 - **Learning Management System**: [Moodle LMS](https://moodle.org/)
   - Description: Contributed to core 2.0 subsystems missing and outdated strings, 4.0 version Moodle .
-  - Contributions: translating english to filipino.
+  - Contributions: translated english to filipino.
  
 - **ReactJS Framework**: [React Javascript Framework](https://react.dev/)
   - Description: react.dev Translation [React Community](https://github.com/reactjs/translations.react.dev).
