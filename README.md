@@ -31,20 +31,16 @@ I'm passionate about making technology more accessible to everyone, which is why
 
 - **Multi-Factor Authentication**: [Kinde Authentication](https://kinde.com/)
   - Description: Contributed to Kinde public facing screen eg authentication flows.
-  - Contributions: translated english to filipino and improved README file.
-    
 
 - **Learning Management System**: [Moodle LMS](https://moodle.org/)
   - Description: Contributed to core 2.0 subsystems missing and outdated strings, 4.0 version Moodle .
-  - Contributions: translated english to filipino.
- 
+
 - **ReactJS Framework**: [React Javascript Framework](https://react.dev/)
   - Description: react.dev Translation [React Community](https://github.com/reactjs/translations.react.dev).
-  - Contributions: Suggested to be a maintainer for Filipino language.
- 
+   
 - **React Chatbotify**: [Chatbot](https://react-chatbotify.tjtanjin.com/)
   - Description: [ Work in Progress](https://github.com/tjtanjin/react-chatbotify#contributing).
-  - Contributions: Work in Progress.
+
  
 
 Connect with Me:
