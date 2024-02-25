@@ -71,7 +71,8 @@ Connect with Me:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patsy101&show_icons=true&locale=en&layout=compact" alt="patsy101" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patsy101&show_icons=true&locale=en&layout=compact" alt="patsy101" /></p> -->
+
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Patsy101&theme=default" alt="patsy101" /></p>
 <br></br>
 <img width="563" alt="image" src="https://github.com/Patsy101/Patsy101/assets/100541934/893cdebc-4a8c-4a61-b172-f70f7c5ba53d">
